@@ -93,6 +93,11 @@ img {
   background: linear-gradient(to right, #aefcf7 0%, #aefcf7 40%, #69c1e7 100%);
 }
 
+.offscreen {
+  position: absolute;
+  left: -10000px;
+}
+
 /* ===============
     Header
 ================= */
